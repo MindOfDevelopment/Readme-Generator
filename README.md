@@ -1,33 +1,36 @@
+# README Generator
 
-    # README Generator
+[![Licence](https://img.shields.io/static/v1?label=<LABEL>&message=MIT&color=informational)]
 
-    [![Licence](https://img.shields.io/static/v1?label=<LABEL>&message=MIT&color=informational)]
- 
-    ## Table of Contents
-    - [Description](#description)
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Testing](#testing)
-    - [Contribution] (#contribution)
-    - [More Info](#more-info)
+## Table of Contents
 
-    ## Description
-    Creation of Readme Generator file using Inquirer Package
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Testing](#testing)
+- [Contribution] (#contribution)
+- [More Info](#more-info)
 
-    ## Installation
-    project.installation}
+## Description
 
-    ## Usage
-    node index.js
+Creation of Readme Generator file using Inquirer Package
 
-    ## Testing
-    project.testing
+## Installation
 
-    ## Contribution
-    By pulling Requests at Github
+project.installation}
 
-    ## More Info
-    By pulling Requests at Github
-     - Email: <Mind.Narusevicius@proton.me>
-     - Github: [MindOfDevelopment]('https://github.com/MindOfDevelopment')
-    
+## Usage
+
+node index.js
+
+## Testing
+
+project.testing
+
+## Contribution
+
+By pulling Requests at Github
+
+## More Info
+
+By pulling Requests at Github - Email: <Mind.Narusevicius@proton.me> - Github: [MindOfDevelopment]('https://github.com/MindOfDevelopment')

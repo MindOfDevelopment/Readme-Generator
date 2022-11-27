@@ -16,13 +16,13 @@ function markdownGenerator(project) {
     ${project.description}
 
     ## Installation
-    project.installation}
+    ${project.installation}
 
     ## Usage
     ${project.usage}
 
     ## Testing
-    project.testing
+    ${project.testing}
 
     ## Contribution
     ${project.contribution}
