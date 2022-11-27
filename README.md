@@ -34,6 +34,4 @@
  [Video Sharing Link](https://watch.screencastify.com/v/9oYOmOqvtOBu1MHxj1Ca)
      
 
-[Video Sharing Link]("https://watch.screencastify.com/v/9oYOmOqvtOBu1MHxj1Ca")
-
-[Github URL Link]("https://github.com/MindOfDevelopment/Readme-Generator")
+[Github URL Link](https://github.com/MindOfDevelopment/Readme-Generator)
