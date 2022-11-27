@@ -1,36 +1,35 @@
-# README Generator
+    # README File
 
-[![Licence](https://img.shields.io/static/v1?label=<LABEL>&message=MIT&color=informational)]
+    [![Licence](https://img.shields.io/static/v1?label=<LABEL>&message=MIT&color=informational)]
 
-## Table of Contents
+    ## Table of Contents
+    - [Description](#description)
+    - [Installation](#installation)
+    - [Usage](#usage)
+    - [Testing](#testing)
+    - [Contribution] (#contribution)
+    - [More Info](#more-info)
 
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Testing](#testing)
-- [Contribution] (#contribution)
-- [More Info](#more-info)
+    ## Description
+    Creation of a command line application that dynamically generates a Readme file from a user's input
 
-## Description
+    ## Installation
+    npm install
 
-Creation of Readme Generator file using Inquirer Package
+    ## Usage
+    node index.js
 
-## Installation
+    ## Testing
+    undefined
 
-project.installation}
+    ## Contribution
+    By pulling requests on Guthub
 
-## Usage
+    ## More Info
+    By pulling requests on Guthub
+     - Email: <Mind.Narusevicius@proton.me>
+     - Github: [MindofDevelopment]('https://github.com/MindofDevelopment')
 
-node index.js
+![Video Sharing Link]("https://watch.screencastify.com/v/9oYOmOqvtOBu1MHxj1Ca")
 
-## Testing
-
-project.testing
-
-## Contribution
-
-By pulling Requests at Github
-
-## More Info
-
-By pulling Requests at Github - Email: <Mind.Narusevicius@proton.me> - Github: [MindOfDevelopment]('https://github.com/MindOfDevelopment')
+![Github URL Link]("https://github.com/MindOfDevelopment/Readme-Generator")

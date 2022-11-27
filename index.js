@@ -73,3 +73,4 @@ function init() {
 }
 
 // Function call to initialize
+init();
